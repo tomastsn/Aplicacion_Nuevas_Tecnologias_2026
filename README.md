@@ -1,6 +1,6 @@
-# Trabajos Prácticos - Aplicación de Nuevas Tecnologías 🚀
+# Trabajos Prácticos - Aplicación de Nuevas Tecnologías 
 
-¡Hola! Bienvenida/o a mi repositorio para la materia **Aplicación de Nuevas Tecnologías**. 
+Bienvenida/o a mi repositorio para la materia **Aplicación de Nuevas Tecnologías**. 
 
 En este espacio estaré documentando y subiendo todos los trabajos prácticos desarrollados durante el ciclo lectivo 2026. 
 
