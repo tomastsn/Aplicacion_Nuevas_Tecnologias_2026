@@ -14,7 +14,7 @@ En este espacio estaré documentando y subiendo todos los trabajos prácticos de
 
 A medida que avance el año, iré listando aquí los trabajos entregados:
 
-1.  **[TP1 — Productos Reales con Machine Learning](./tp01.md)**: Investigación sobre servicios globales y regionales que utilizan ML.
+1.  **[TP1 — Productos Reales con Machine Learning](./Trabajos_practicos/tp01.md)**: Investigación sobre servicios globales y regionales que utilizan ML.
 2.  *TP2 — Próximamente...*
 
 ---
