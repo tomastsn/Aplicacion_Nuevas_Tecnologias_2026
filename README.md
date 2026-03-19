@@ -16,6 +16,7 @@ A medida que avance el año, iré listando aquí los trabajos entregados:
 
 1.  **[TP1 — Productos Reales con Machine Learning](./Trabajos_practicos/tp01.md)**: Investigación sobre servicios globales y regionales que utilizan ML.
 2.  **[TP2 — Análisis de Dataset](./Trabajos_practicos/tp02.md)**: Hematología y Machine Learning
+3.  **[TP3 - Regresión lineal](./Trabajos_practicos/TP3_Regresion.ipynb)**: en Google Colab
 
 ---
 
