@@ -18,6 +18,7 @@ A medida que avance el año, iré listando aquí los trabajos entregados:
 2.  **[TP2 — Análisis de Dataset](./Trabajos_practicos/tp02.md)**: Hematología y Machine Learning
 3.  **[TP3 - Regresión lineal](./Trabajos_practicos/TP3_Regresion.ipynb)**: en Google Colab
 4.  **[TP4 - Perceptrón desde Cero](./Trabajos_practicos/TP4_Perceptrón-desde-Cero.ipynb)**: en Google Colab
+5.  **[TP5 - Clasificación de Imágenes con Datasets Publicos](./Trabajos_practicos/TP5_clasificacion_imagenes.ipynb)**: en Google Colab utilizando el dataset Intel Image Classification (Kaggle)
 
 ---
 
